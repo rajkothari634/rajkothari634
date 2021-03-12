@@ -13,10 +13,10 @@ I am Raj Kothari. I am a passionate developer skilled in MERN, Machine Learning,
 
 💬 Ask me about anything, I am always ready to help 😄.
 
-🌱 Things I like to do or I have done before.
+🌱 Things I like to do / I have done before.
 - I am Vice President of HackSlash Club NIT Patna.
 - I am Google DSC NIT Patna Machine Learning Lead.
-- Mentor for junior developer to guide them and especially in hackathons.
+- Mentor for students and love to take part in mentorship in hackathons.
 - Past experience of SDE Intern in Arcatron Mobility and Earnest Fintech.
 
 
