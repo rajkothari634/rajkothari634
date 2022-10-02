@@ -12,8 +12,8 @@ I am Raj Kothari. I am a passionate developer skilled in MERN, Machine Learning,
 
 🌱 Things I like to do / I have done before.
 - Currently working as SDE 1 in BrightChamps.
-- I am Vice President of HackSlash Club NIT Patna.
-- I am Google DSC NIT Patna Machine Learning Lead.
+- I was Vice President of HackSlash Club NIT Patna.
+- I was Google DSC NIT Patna Machine Learning Lead.
 - Mentor for students and love to take part in mentorship in hackathons.
 - Past experience of SDE Intern in BrightChamps, Arcatron Mobility and Earnest Fintech.
 - Some freelance work.
