@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Raj Kothari, Software Engineer at BrightChamps. I am a passionate developer skilled in MERN, Machine Learning, and Mobile app development and love to work with javascript and its framework. I use Java for competitive programming. I use other programming languages like PHP, C/C++, python, Octave/MATLAB, etc. I am graduated from National Institute of Technology, Patna, B. Tech in Computer Science and Engineering. I love reading about new technologies, the secrets of space.
+I am Raj Kothari, Software Engineer at BrightChamps. I am a passionate developer skilled in MERN, Machine Learning, and Mobile app development and love to work with javascript and its framework. I use Java for competitive programming. I use other programming languages like PHP, C/C++, python, Octave/MATLAB, etc. I am graduated from National Institute of Technology, Patna, B. Tech in Computer Science and Engineering. I love reading about new technologies.
 
 😄 Pronouns: He/Him
 
