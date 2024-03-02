@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Raj Kothari, Software Engineer at BrightChamps. I am a passionate developer skilled in MERN, Machine Learning, and Mobile app development and love to work with javascript and its framework. I use Java for competitive programming. I use other programming languages like PHP, C/C++, python, Octave/MATLAB, etc. I am graduated from National Institute of Technology, Patna, B. Tech in Computer Science and Engineering. I love reading about new technologies.
+I am Raj Kothari, Software Engineer at BrightChamps. As an experienced FullStack developer with 2 years of full-time SDE experience, I specialize
+in Backend development and System Design - crafting robust & scalable solutions. I am a passionate developer skilled in MERN, SpringBoot, Mobile app development and love to work with javascript and its framework. I programming languages like JAVA, PHP, C/C++, python, Octave/MATLAB, etc. I am graduated from National Institute of Technology, Patna, B. Tech in Computer Science and Engineering. I love learning about new technologies.
 
 😄 Pronouns: He/Him
 
@@ -11,11 +12,9 @@ I am Raj Kothari, Software Engineer at BrightChamps. I am a passionate developer
 💬 Ask me about anything, I am always ready to help 😄.
 
 🌱 Things I like to do / I have done before.
-- Currently working as SDE 1 in BrightChamps.
-- I was Vice President of HackSlash Club NIT Patna.
-- I was Google DSC NIT Patna Machine Learning Lead.
+- Currently working as SDE 1 in BrightChamps with 2+year experience.
 - Mentor for students and love to take part in mentorship in hackathons.
-- Past experience of SDE Intern in BrightChamps, Arcatron Mobility and Earnest Fintech.
+- Past experience of SDE Intern in BrightChamps, Arcatron Mobility and Earnest Fintech, with total experience of nearly 1.5 year.
 - Some freelance work.
 
 
